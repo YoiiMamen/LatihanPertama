@@ -2,7 +2,7 @@
     $nama = "Yahya";
     $nama2 = "Khaliman";
 
-    $alamat = "sukoharjo"
-
+    $alamat = "sukoharjo";
+    $status = "Mahasiswa";
     echo $nama;
 ?>
