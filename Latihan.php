@@ -4,5 +4,6 @@
 
     $alamat = "sukoharjo";
     $status = "Mahasiswa";
+    $gender = "Pria"
     echo $nama;
 ?>
